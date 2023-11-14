@@ -30,7 +30,7 @@ kod blokowy::
 * punkt
 * punkt
 
-.. image:: ścieżka do jakiegoś obrazka
+.. image:: ./img/fontdet.png
    :alt: tu jest obrazek
 
 +----------+----------+
